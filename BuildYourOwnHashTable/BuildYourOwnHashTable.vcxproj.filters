@@ -24,6 +24,9 @@
     <ClCompile Include="prime.h">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="hash_table.h">
